@@ -1,3 +1,5 @@
-<resources>
+    <resources>
     <string name="app_name">South African ID</string>
-</resources>
+    <string name="hint_id">Please enter ID number</string>
+    <string name="submit">Submit</string>
+    </resources>
