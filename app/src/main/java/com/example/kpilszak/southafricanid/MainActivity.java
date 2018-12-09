@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_activity);
+
+        etID = findViewById(R.id.etID);
+        btnSubmit = findViewById(R.id.btnSubmit);
+        tvResults = findViewById(R.id.tvResults);
     }
 }
