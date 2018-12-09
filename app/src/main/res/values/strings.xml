@@ -2,4 +2,12 @@
     <string name="app_name">South African ID</string>
     <string name="hint_id">Please enter ID number</string>
     <string name="submit">Submit</string>
+        <string name="dateOfBirth">Date of Birth:</string>
+        <string name="newLine" />
+        <string name="gender">Gender:</string>
+        <string name="nationality">Nationality:</string>
+        <string name="female">Female</string>
+        <string name="male">Male</string>
+        <string name="SACitizen">SA Citizen</string>
+        <string name="permanentResident">Permanent Resident</string>
     </resources>
