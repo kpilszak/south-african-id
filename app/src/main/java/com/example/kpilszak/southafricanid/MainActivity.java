@@ -42,9 +42,9 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     sNationality = getString(R.string.permanentResident);
                 }
-                String textResult = "\n" + getString(R.string.dateOfBirth) + dateOfBirth + "\n\n" +
-                        getString(R.string.gender) + sGender + "\n\n" +
-                        getString(R.string.nationality) + sNationality;
+                String textResult = "\n" + getString(R.string.dateOfBirth) + " " + dateOfBirth + "\n\n" +
+                        getString(R.string.gender) + " " + sGender + "\n\n" +
+                        getString(R.string.nationality) + " " + sNationality;
                 tvResults.setText(textResult);
                 tvResults.setVisibility(View.VISIBLE);
            }
