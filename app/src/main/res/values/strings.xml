@@ -2,7 +2,7 @@
     <string name="app_name">South African ID</string>
     <string name="hint_id">Please enter 13-digits ID number</string>
     <string name="submit">Submit</string>
-        <string name="dateOfBirth">Date of Birth:</string>
+        <string name="dateOfBirth">Date of Birth (YYMMDD):</string>
         <string name="newLine" />
         <string name="gender">Gender:</string>
         <string name="nationality">Nationality:</string>
