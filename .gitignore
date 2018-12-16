@@ -9,8 +9,7 @@
 bin/
 gen/
 out/
-generated/
-intermediates/
+build/
 
 # Gradle files
 .gradle/
