@@ -22,7 +22,7 @@ Minimal Android version:
 * Android 4.4 - Kitkat (API 19)
 
 ## Setup
-To run this project download this file to your Android cell phone: /app/release/app-release.apk
+To run this project download this file to your Android cell phone: <a href="https://github.com/kpilszak/south-african-id/blob/master/app/release/app-release.apk">/app/release/app-release.apk</a>
 
 ## Sources
 This project was created as an exercise from course "Learn Android Application Development" on Udemy platform.
